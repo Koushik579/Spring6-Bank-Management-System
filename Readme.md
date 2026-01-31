@@ -208,7 +208,7 @@ This project runs on a local Apache Tomcat server.
 
 Example:
 
-https://github.com/Koushik579/Spring6-Bank-Management-System
+http://localhost:8080/SpringBankManagement/
 
 🧠 Concepts Demonstrated
 
